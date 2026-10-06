@@ -1,4 +1,4 @@
-# dl_music_genre_deployment# Music Genre Classification API
+# Music Genre Classification API
 
 A FastAPI-based machine learning API that predicts the genre of an uploaded audio file using a modified ResNet-50 deep learning model.
 
